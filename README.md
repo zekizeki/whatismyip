@@ -1,4 +1,5 @@
 # whatismyip
+[![Actions Status](https://github.com/zekizeki/whatismyip/workflows/Go/badge.svg)](https://github.com/zekizeki/whatismyip/actions)
 
 A simple command line tool for looking up your public IP address. Utilises the extremely handy 
 [ifconfig.co](https://ifconfig.co) from [mpolden](https://github.com/mpolden)
