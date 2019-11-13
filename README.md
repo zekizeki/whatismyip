@@ -13,7 +13,7 @@ go build whatismyip.go
 
 For windows
 ```
-
+GOOS=windows GOARCH=386 go build whatismyip.go
 ```
 
 ## Usage
